@@ -3,12 +3,15 @@
 <h2>
 Inhaltsverzeichnis
 </h2>
-<p>1. Einleitung <br> 2. Stundendokumentation <p style="text-indent:20px;">23.01.17<br style="text-indent:20px;">26.01.17<br style="text-indent:20px;">09.02.17<br style="text-indent:20px;">14.02.17<br style="text-indent:20px;">16.02.17</p>
-nhnh
+<ul> <li>1. Einleitung</li>
+<li>2. Stunden-Dokumentation</li>
+<ul> <li>23.01.17</li>
+<li>26.01.17</li>
+<li>09.02.17</li>
+<li>14.02.17</li>
+<li>16.02.17</li> </ul>
+<li>3. Projekt: Beauty and Joy of Computing</li> 
+<ul> <li> abc</li>
+<li>efg</li>
+<li>hij</li> </ul> </ul>
 
-<h2>
-Inhaltsverzeichnis
-</h2>
-<ul>
-<li>1. Einleitung</li>
-<li>2. Stunden-Dokumentation<br>23.01.17
