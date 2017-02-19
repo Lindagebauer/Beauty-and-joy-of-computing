@@ -10,7 +10,7 @@ Inhaltsverzeichnis
 <li>09.02.17</li>
 <li>14.02.17</li>
 <li>16.02.17</li> </ul>
-<li>3. Projekt: Beauty and Joy of Computing</li> 
+<li>3. Einführung in das Programmieren mit Snap!</li> 
 <ul> <li> abc</li>
 <li>efg</li>
 <li>hij</li> </ul> </ul>
