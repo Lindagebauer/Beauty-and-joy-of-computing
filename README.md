@@ -3,12 +3,7 @@
 <h2>
 Inhaltsverzeichnis
 </h2>
-<p>1. Einleitung <br> 2. Stundendokumentation 
-<p style="text-indent:20px;">23.01.17</p>
-<p style="text-indent:20px;">26.01.17</p>
-<p style="text-indent:20px;">09.02.17</p>
-<p style="text-indent:20px;">14.02.17</p>
-<p style="text-indent:20px;">16.02.17</p></p> lalalala
+<p>1. Einleitung <br> 2. Stundendokumentation <p style="text-indent:20px;">23.01.17<br>26.01.17<br>09.02.17<br>14.02.17<br>16.02.17</p>
 
 
 <h2>
